@@ -40,9 +40,9 @@
     </section>
 
     <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: wankhadeganesh9722@gmail.com</p>
-        <p>LinkedIn: https://www.linkedin.com/in/ganesh-santosh-wankhade-722724239/</p>
+        <h2>Contact</h2><p>Email: <a href="mailto:wankhadeganesh9722@gmail.com">wankhadeganesh9722@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ganesh-santosh-wankhade-722724239/">Ganesh Santosh Wankhade</a></p>
+        
         <p>Number:7083215952</p>
     </section>
 
